@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Log4JMod/Log4JMod.iml" filepath="$PROJECT_DIR$/Log4JMod/Log4JMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogbackMod/LogbackMod.iml" filepath="$PROJECT_DIR$/LogbackMod/LogbackMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoggingDemoMulti.iml" filepath="$PROJECT_DIR$/LoggingDemoMulti.iml" />
+    </modules>
+  </component>
+</project>
